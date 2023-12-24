@@ -1,0 +1,17 @@
+
+.App {
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    width: 100%;
+    text-align: center;
+    font-family: 'Epilogue', sans-serif;
+    font-family: 'Hanken Grotesk', sans-serif;
+    font-family: 'Libre Baskerville', serif;
+    font-family: 'Noto Sans', sans-serif;
+    font-family: 'Nunito Sans', sans-serif;
+    font-family: 'Outfit', sans-serif;
+    font-family: 'Rubik', sans-serif;
+    color: hsl(200, 15%, 8%);
+    overflow: hidden;
+}
